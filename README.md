@@ -1,0 +1,2 @@
+# tsCore_ScaffolderPlugin_JARVIS_SCAFFOLDER_PLUGIN
+Backup/prueba de repositorio tsCore_ScaffolderPlugin_JARVIS_SCAFFOLDER_PLUGIN
